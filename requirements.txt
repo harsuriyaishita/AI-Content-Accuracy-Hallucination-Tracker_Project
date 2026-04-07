@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 scikit-learn
-matplotlib==3.7.1
+matplotlib
 sentence-transformers
